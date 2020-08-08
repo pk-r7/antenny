@@ -1,0 +1,26 @@
+Quantity,Manufacturer Part Number 1,Footprint,Designator,Description,Manufacturer,Manufacturer URL,PartType,,
+10,C0603C104M4RAC7411,FP-C0603C-CF-MFG,"C1, C3, C5, C9, C10, C12, C13, C18, C25, C26",CAP CER 0.1UF 16V X7R 0603,KEMET,,C0603_0.1UF,,X
+4,C1608X7R1H334K080AC,CAPC1608X90X20LL10,"C2, C4, C6, C19","Chip Capacitor, 0.33 uF, +/- 10%, 50 V, -55 to 125 degC, 0603 (1608 Metric), RoHS, Tape and Reel",TDK,http://www.tdk.com/,C0603_0.33UF,,X
+5,C0603C101J1GACTU,CAPC1608X87X35LL15T15,"C7, C8, C11, C22, C23",,Kemet,,C0603_1UF,,X
+2,GRM21BR61C106KE15L,CAPC2013X135X50LL10T20,"C24, C29",,Murata,,C0805_10UF,,X
+2,CC0603JRNPO9BN120,CAPC1608X90X40NL10T20,"C27, C28","Chip Capacitor, 12 pF, +/- 5%, 50 V, -55 to 125 degC, 0603 (1608 Metric), RoHS, Tape and Reel",,,CC0603JRNPO9BN120,,
+6,1N5819HW-7-F,FP-SOD123-MFG,"D1, D2, D3, D5, D6, D7",DIODE SCHOTTKY 40V 1A SOD123,Diodes Inc,,DIODE_1N5819,,
+1,LTST-C190GKT,FP-LTST-C190GKT-MFG,D8,LED GREEN CLEAR CHIP SMD,,,LED,,
+1,47346-0001,MOLX-47346-0001-5_V,J1,"Micro-USB B Receptacle with Flange, -30 to 85 degC, 5-Pin SMD, RoHS, Tape and Reel",Molex,http://www.molex.com/,47346-0001,,
+1,282836-2,TECO-282836-2_V,J5,"Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm, Rohs, Bulk",TE Connectivity,http://www.te.com,282836-2,,
+1,ESP32-WROOM-32D,FP-ESP32-WROOM-32D-MFG,MD1,WIFI MODULE 32MBITS SPI FLASH,Espressif Systems,,ESP32-WROOM-32D,,
+3,68692-404H,HDR1X4,"P1, P2, P3","Header, 4-Pin",,,Header 4,,X
+1,54102-T06-00,HDR1X6,P4,"Header, 6-Pin",,,Header 6,,X
+3,68691-416,HDR1X16,"P5, P6, P7","Header, 16-Pin",,,Header 16,,X
+1,77313-4AE-26LF,HDR2X13,P8,"Header, 13-Pin, Dual row",,,Header 13X2,,X
+2,BCP56-16,FP-SOT-223-P008-MFG,"Q1, Q2",TRANS NPN 80V 1A SOT-223,STMicroelectronics,,BCP56-16,,
+5,ERJ-3EKF1002V,RESC1609X55X30LL15T15,"R1, R6, R7, R24, R45","Chip Resistor, 10 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel",Panasonic,http://www.panasonic.com/,R0603_10K,,
+2,ERA-3AEB472V,J1-0603,"R5, R44",Resistor,,,R0603_4.7K,added,X
+5,ERA-3AEB121V,RESC1608X55X30NL20T20,"R8, R9, R10, R11, R43",,Panasonic,,R0603_120R,,
+2,RR0816P-242-D,RESC1608X50X30ML20T20,"R22, R23",,Susumu,,R0603_2.4K,,
+2,FSMSMTR,TECO-FSMSMTR_V,"SW1, SW2","FSMSM Push Button Switch, 50 mA, -35 to 85 degC, 2-Pin SMD, RoHS, Tape and Reel",TE Connectivity,http://www.te.com/,push_button,,
+4,L7806CD2T-TR,TO-263_L,"U1, U2, U3, U8","Positive Voltage Regulator, 3-Pin D2PAK, Tape and Reel",,,L7806CD2T-TR,,
+1,MCP1826S-3302E/DB,SOT-223-DB3_L,U4,"1000 mA, Low Voltage, Low Quiescent Current LDO Regulator, 3-Pin SOT-223, Extended Temperature",,,MCP1826S-3302E/DB,,
+1,CP2102N-A01-GQFN24,SLAB-QFN-24-2550x2550TP_A_V,U5,"USBXpress(TM) Family, 4 GPIOs, 2.2 to 3.6 V, -40 to 85 degC, 24-Pin QFN, RoHS",Silicon Labs,http://www.silabs.com/,CP2102N-A01-GQFN24,,
+1,"PCA9685PW,112",SOT361-1_V,U7,"16-Channel, 12-Bit PWM Fm+ I2C-Bus LED Controller, 2.3 to 5.5 V, -40 to 85 degC, 28-Pin TSSOP (SOT361-1), RoHS, Tape and Reel",,,PCA9685PW,,
+1,ABS25-32.768KHZ-1-T,ABRA-ABS25-4_V,X1,"Low Frequency Crystal, 32.768 KHz, -40 to 85 degC, 4-Pin SMD, RoHS, Tape and Reel",ABRACON,http://www.abracon.com/,ABS25-32.768KHZ-1-T,,X
